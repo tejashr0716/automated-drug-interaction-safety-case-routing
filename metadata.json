@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Integrity PV",
+  "description": "Enterprise pharmacovigilance safety triage dashboard, automated drug-drug interaction (DDI) rules engine, case evaluation, and 21 CFR Part 11 compliant audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
